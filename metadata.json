@@ -1,0 +1,6 @@
+{
+  "name": "BGMI Gold ID Store",
+  "description": "Exclusively verified BGMI Gold Tier Accounts with instant UPI QR payments, clean single-bind logins, and 24/7 Telegram support (@zulmeecheat).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
